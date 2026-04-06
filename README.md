@@ -1,19 +1,17 @@
-<h1 align="center">
-  BigSur
+>[!IMPORTANT]
+> El material contenido en este repositorio es para uso exclusivamente corporativo. El uso indebido de la marca registrada puede conllevar acciones legales.
+
+<h1 align="center"> 
+  Inled Group Corporative Grub & Ventoy Theme
 </h1>
+
+![Inled Group](https://hosted.inled.es/1/banner-github-inled-better-with-logo.gif)
 
 <p align="center">
     A Grub2 Bootloader Theme
 </p>
 
-<div align="center">
 
-
-![Mockup image](screenshots/bigsur_mockup.png)
-
-![Bootloader image](screenshots/bigsur.png)
-
-</div>
 
 
 ## Usage:
@@ -21,9 +19,10 @@
 ##### Grub2:
 
 ```bash
-$ git clone https://github.com/Teraskull/bigsur-grub2-theme
+$ git clone https://github.com/InledGroup/ventoy-theme
 
-$ cd bigsur-grub2-theme
+
+$ cd ventoy-theme
 
 $ ./install.sh
 ```

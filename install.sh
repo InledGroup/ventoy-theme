@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THEME='bigsur'
+THEME='inled'
 
 # Pre-authorise sudo
 sudo echo
@@ -46,10 +46,11 @@ prompt() {
 
 # Welcome message
 echo ""
-prompt -s "\t          *****************************"
-prompt -s "\t          *  BigSur Bootloader Theme  *"
-prompt -s "\t          *****************************"
-prompt -s "\t             Grub theme by Teraskull"
+prompt -s "\t                                                       **********************************************"
+prompt -s "\t                                                       *  Inled Group Corporative Bootloader Theme  *"
+prompt -s "\t                                                       **********************************************"
+prompt -s "\t                                                       * A fork from the Grub theme by Teraskull    *"
+prompt -s "\t                     *  -----ESTE MATERIAL ES CORPORATIVO, EL USO INDEVIDO DE LA MARCA REGISTRADA PUEDE CONLLEVAR ACCIONES LEGALES-----"
 echo ""
 
 
